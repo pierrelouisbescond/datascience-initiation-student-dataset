@@ -1,3 +1,5 @@
+![student studying](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/study?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 # datascience-initiation-student-dataset
 Ce repository regroupe une série de notebooks destinés aux Data Scientists Juniors (niveau 3ème) qui rejoignent l'équipe Data Science pour quelques jours.
 
