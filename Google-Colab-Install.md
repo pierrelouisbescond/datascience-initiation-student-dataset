@@ -4,7 +4,7 @@
 
 2/ A l'ouverture du notebook, monter le disque Google Drive :
 
-![img-google-colab-mount-drive](./images/img-google-colab-mount-drive)
+![img-google-colab-mount-drive](./images/img-google-colab-mount-drive.png)
 
 3/ Initier le notebook en plaçant l'exécution de ce dernier dans le bon répertoire :
 
