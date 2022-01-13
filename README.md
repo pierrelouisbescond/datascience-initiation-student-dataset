@@ -16,7 +16,7 @@ Description des notebooks :
 
 Description des jeux de données :
 
-* [student-0-original](./student-0-original.csv) : jeu de données original tel que fourni par l'UCI
-* [student-1-start](./student-1-start.csv) : jeu de données adapté (suppression de certaines colonnes et corruption de la colonne "age")
+* [student-0-original](./student-0-original.csv) : jeu de données original tel que fourni par l'UCI.
+* [student-1-start](./student-1-start.csv) : jeu de données adapté (suppression de certaines colonnes et corruption de la colonne "age").
 
 Le répertoire [completed_notebooks](./completed_notebooks) contient le jumeau de chaque notebook avec le code complété ainsi que les jeux de données intermédiaires.
