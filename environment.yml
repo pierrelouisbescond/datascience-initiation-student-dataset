@@ -1,0 +1,9 @@
+name: student-dataset
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.5
+  - pandas=1.3.4 
+  - scikit-learn=0.24.2
+  - matplotlib=3.4.2
