@@ -49,3 +49,20 @@ Et l'erreur moyenne est devenue **0,155**, 5 fois moins que le premier essai !
 Voici l'animation correspondante :
 
 ![animation](./images/Lin_Reg_MSE.gif)
+
+
+## Etablir une prédiction
+
+Sur la base de ce modèle (= équation), nous pourrions également prédire quelle serait la distance parcourue sur une durée qui n'a pas été testée.
+
+Essayons avec 1h de balade :
+
+$$y_{distance} = 1 * 0,62 + 1,06 = 1.68km$$
+
+Cependant, un modèle présente toujours des limites, notamment le fait qu'il est dangereux de faire des prédictions en dehors de la plage de valeurs sur laquelle il a été entrainé.
+
+Par exemple, si nous réalisons le même calcul pour 30 heures de balade, l'équation nous renverra bien une valeur :
+
+$$y_{distance} = 30 * 0,62 + 1,06 = 19,66km$$
+
+... mais notre jeune Labrador sera épuisé bien avant d'avoir autant marché !
