@@ -20,15 +20,16 @@ Nous avons reporté ces points sur le graphique ci-dessous :
 ![donnees](./images/Lin_Reg_MSE_start.jpg)
 
 *abscisse (x): durée de la balade en heure*
+
 *ordonnée (y): distance parcourue en km*
 
-Par exemple, nous pouvons voir que lors d'une balade de 2h, il a parcouru un peu moins de 3 kms... ou que lors d'une très longue balade de 7h, il a parcouru 5 kms.
+Ainsi, nous pouvons voir que lors d'une balade de 2h, il a parcouru un peu moins de 3 kms... ou que lors d'une très longue balade de 7h, il a parcouru 5 kms.
 
 La question à laquelle le modèle doit répondre est : quelle distance sera parcourue en fonction de la durée de la balade ?
 
 Exprimé sous une forme mathématique, cela revient à trouver :
 
-$$distance = durée * coefficient_a + coefficient_b$$
+\\[ distance = durée * coefficient_a + coefficient_b\\]
 
 De la même manière que nous pourrions le faire avec une simple règle sur une feuile de papier, l'algorithme va positionner une première ligne qui correspond à une équation de départ :
 
