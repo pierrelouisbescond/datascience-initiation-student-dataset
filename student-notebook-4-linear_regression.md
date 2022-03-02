@@ -29,7 +29,7 @@ La question à laquelle le modèle doit répondre est : quelle distance sera par
 
 Exprimé sous une forme mathématique, cela revient à trouver :
 
-\\[ distance = durée * coefficient_a + coefficient_b\\]
+$$distance = durée * coefficient_a + coefficient_b$$
 
 De la même manière que nous pourrions le faire avec une simple règle sur une feuile de papier, l'algorithme va positionner une première ligne qui correspond à une équation de départ :
 
