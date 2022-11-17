@@ -2,7 +2,7 @@
 
 Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/study?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 # datascience-initiation-student-dataset
-Ce repository regroupe une série de notebooks destinés aux Data Scientists Juniors (niveau 3ème) qui rejoignent l'équipe Data Science pour quelques jours.
+Ce repository regroupe une série de notebooks destinés aux Data Scientists Juniors qui rejoignent l'équipe Data Science pour quelques jours.
 
 Ils leur permettent de se plonger dans l'univers de la Data Science à travers un cas d'étude simple, inspiré du dataset (adapté) de l'University of California : [ici](https://archive.ics.uci.edu/ml/datasets/student+performance).
 
